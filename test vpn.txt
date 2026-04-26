@@ -1,8 +1,7 @@
 #profile-title: 🏳️ Nakoleni VPN
 #profile-web-page-url: https://t.me/adapter_nakoleni
 #support-url: https://t.me/ya_nakoleni
-#announce: ❤️ Мой впн для моих близких 💋 
-Не работает VPN? - Нажмите 🔄
+#announce: Не работает VPN? - Нажмите 🔄
 Проверяешь пинг? - Выключи VPN
 #subscription-userinfo: upload=0; download=0; total=0; expire=1777334400
 
