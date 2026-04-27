@@ -3,7 +3,7 @@
 #profile-web-page-url: https://t.me/adapter_nakoleni
 #support-url: https://t.me/ya_nakoleni
 #announce: ❤️ Мой впн для моих близких 💋                
-#subscription-userinfo: upload=0; download=0; total=0; expire=1777334400
+#subscription-userinfo: upload=0; download=0; total=0; expire=1777507200
 
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&headerType=none&type=tcp#%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5+VPN+%F0%9F%91%87
